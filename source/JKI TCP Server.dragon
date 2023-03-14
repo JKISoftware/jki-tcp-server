@@ -1,0 +1,3 @@
+[project]
+labview-version = "2020"
+vipc = ".vipc"

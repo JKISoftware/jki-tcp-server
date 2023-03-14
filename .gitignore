@@ -1,0 +1,7 @@
+
+*.aliases
+*.lvlps
+*.vip
+.dragon/
+
+.DS_Store
